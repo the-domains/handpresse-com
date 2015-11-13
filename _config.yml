@@ -1,0 +1,23 @@
+name: Handpresse.com
+favicon: null
+layout_spectrum: 0.714600974926725
+typography_spectrum: 0.06909485859796405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8074819194152951
+  lightness: 0.1395983686670661
+  saturation: 0.6966508729383349
+  rhythmicContrast: 0.9631404776591808
+purpose: []
